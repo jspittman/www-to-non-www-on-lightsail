@@ -1,4 +1,5 @@
-# www-to-non-www-on-lightsail
+# www to non www on an Amazon Lightsail Wordpress Instance
+
 Steps to Resolve www to non-www redirection on an Amazon Lightsail Wordpress Instance
 
 Interestingly, Bitnomi uses the wordpress-vhost.conf and wordpress-https-vhost.conf files to derive their httpd.conf instructions.

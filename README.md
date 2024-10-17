@@ -2,7 +2,7 @@
 
 Steps to Resolve www to non-www redirection on an Amazon Lightsail Wordpress Instance
 
-Interestingly, Bitnomi uses the wordpress-vhost.conf and wordpress-https-vhost.conf files to derive their httpd.conf instructions.
+Interestingly, Bitnomi uses the wordpress-vhost.conf and wordpress-https-vhost.conf files to derive their httpd.conf instructions.  Many instructions you will find online and via LLMs will tell you to edit httpd.conf, but this will not work in this instance.
 
 This page does a good job of explanin the solution: https://stackoverflow.com/questions/75256820/redirection-www-to-non-www-in-aws-lightsail
 
